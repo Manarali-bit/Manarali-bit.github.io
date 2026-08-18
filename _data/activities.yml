@@ -1,0 +1,46 @@
+- year: "2026"
+  items:
+    - date: "Aug."
+      text: 'Our paper "Probing the Communicative Efficiency of LLMs via Content Selection in Visually Uncommon Reference Games" was accepted to INLG 2026. Utrecht, the Netherlands.'
+    - date: "Aug."
+      text: 'Attended the <a href="https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/summer-school-2026/">DGfS Summer School 2026</a>. Bielefeld, Germany.'
+
+    - date: "Jul."
+      text: 'Attended the <a href="https://brigap-workshop.github.io/">BriGap Workshop</a> and  presented a poster. Paris, France.'
+
+    - date: "May"
+      text: 'Presented a poster at the <a href="https://www.sail.nrw/closingconference/">SAIL Closing Conference</a> on reference games and clarification requests. Bielefeld, Germany.'
+
+    - date: "Apr."
+      text: 'Our paper "Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests" was accepted to the <a href="https://gem-workshop.com/">GEM Workshop at ACL 2026</a>. San Diego, USA.'
+
+    - date: "Mar."
+      text: 'Attended the <a href="https://interdisciplinary-college.org/#content">Interdisciplinary College (IK 2026)</a> and presented a poster. Günne, Germany.'
+
+- year: "2025"
+  items:
+    - date: "Oct."
+      text: 'Designed and presented an <a href="https://blogs.uni-bielefeld.de/blog/crc1646/entry/a05-and-b02-at-geniale">interactive game</a> demonstrating limitations of current vision-language models at the <a href="https://wissenswerkstadt.de/geniale">GENIALE Science Festival</a>. Bielefeld, Germany.'
+
+    - date: "Sep."
+      text: 'Presented our work on neuro-symbolic approaches to referring expression generation at the <a href="https://gu-clasp.github.io/events/conferences.html">CLASP Conference</a>. Gothenburg, Sweden.'
+
+    - date: "Sep."
+      text: 'Attended the <a href="https://semdial2025.github.io/">29th Workshop on the Semantics and Pragmatics of Dialogue (SemDial)</a> and assisted the volunteer team. Bielefeld, Germany.'
+
+    - date: "Jul."
+      text: 'Attended ACL 2025, where our team presented our work on multimodal language models as listeners in referential tasks. Vienna, Austria.'
+
+    - date: "Jun."
+      text: 'Presented a poster at <a href="https://sites.google.com/view/nlg-in-the-lowlands-2025/">NLG in the Lowlands</a>. Tilburg, the Netherlands.'
+
+    - date: "Apr."
+      text: 'Gave a <a href="https://blogs.uni-bielefeld.de/blog/crc1646/entry/was-uns-an-sprache-fasziniert">public presentation</a> at the Volkshochschule on creativity and language models. Bielefeld, Germany.'
+
+    - date: "Mar."
+      text: 'Attended the <a href="https://interdisciplinary-college.org/#content">Interdisciplinary College (IK 2025)</a> and presented a poster. Günne, Germany.'
+
+- year: "2024"
+  items:
+    - date: "Sep."
+      text: 'Co-organized the <a href="https://www.iiccsss.org/">International Interdisciplinary Computational Cognitive Science Summer School (IICCSSS)</a>. Osnabrück, Germany.'
