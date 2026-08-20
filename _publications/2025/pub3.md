@@ -14,5 +14,5 @@ authors:
   - Sina Zarrieß
 links:
   Paper: https://aclanthology.org/2025.babylm-main.29/
-  Data: https://huggingface.co/collections/bbunzeck/communicative-baby-babylm-2025
+  #Data: https://huggingface.co/collections/bbunzeck/communicative-baby-babylm-2025
 ---
