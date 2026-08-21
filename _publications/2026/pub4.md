@@ -2,7 +2,7 @@
 title: "Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests"
 date: 2026-07-01
 selected: true
-pub: "Proceedings of the Fifth Workshop on Generation, Evaluation and Metrics (GEM)"
+pub: "Proceedings of the Fifth Workshop on Generation, Evaluation and Metrics (GEM) @ACL 2026"
 
 authors:
   - "<strong>Manar Ali</strong>"

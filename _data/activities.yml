@@ -1,6 +1,8 @@
 - year: "2026"
   items:
     - date: "Aug."
+      text: 'Our paper "AraMIP: Extending MIPVU Towards Metaphor Identification in Arabic" was accepted to the <a href="https://arabicnlp2026.sigarab.org/">ArabicNLP Conference</a> @EMNLP 2026. Budapest, Hungary.'
+    - date: "Aug."
       text: 'Our paper "Probing the Communicative Efficiency of LLMs via Content Selection in Visually Uncommon Reference Games" was accepted to INLG 2026. Utrecht, the Netherlands.'
     - date: "Aug."
       text: 'Attended the <a href="https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/summer-school-2026/">DGfS Summer School 2026</a>. Bielefeld, Germany.'

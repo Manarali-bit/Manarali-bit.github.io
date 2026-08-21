@@ -2,7 +2,7 @@
 title: "Dialogue Is Not Enough to Make a Communicative BabyLM (But Neither Is Developmentally Inspired Reinforcement Learning)"
 date: 2025-11-01
 selected: false
-pub: "Proceedings of the First BabyLM Workshop"
+pub: "Proceedings of the First BabyLM Workshop @EMNLP 2025"
 
 authors:
   - Francesca Padovani*
