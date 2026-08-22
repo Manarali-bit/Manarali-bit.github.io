@@ -61,6 +61,12 @@ navbar_title: Teaching
 
     <div class="p-3 small">
 
+        <p class="mb-3">
+            If you are interested in writing a thesis or doing a research internship
+            on a topic related to my research, feel free to
+            <a href="mailto:manar.ali@uni-bielefeld.de">get in touch</a>.
+        </p>
+
         <p class="mb-0">
             <strong>Melvin Breton Deschamps</strong>
             (École des Mines de Saint-Étienne), Research internship, 2026.
