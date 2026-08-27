@@ -6,12 +6,12 @@ selected: true
 pub: "Proceedings of The Fourth Arabic Natural Language Processing Conference @EMNLP 2026 (to appear) "
 
 authors:
-  - Mandar Marathe
-  - "<strong>Manar Ali</strong>"
-  - Sara Nabhani
-  - Raia Abu Ahmad
-  - Ibrahim Baroud
-  - Omar Momen
+  - Mandar Marathe*
+  - "<strong>Manar Ali</strong>*"
+  - Sara Nabhani*
+  - Raia Abu Ahmad*
+  - Ibrahim Baroud*
+  - Omar Momen*
 links:
   code: https://github.com/AraMIP/AraMIP
 ---
